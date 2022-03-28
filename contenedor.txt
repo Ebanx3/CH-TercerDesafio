@@ -1,0 +1,1 @@
+[{"nombre":"lapiz","precio":15,"thumbnail":"url de foto de lapiz","ID":1},{"nombre":"regla","precio":60,"thumbnail":"url de foto de regla","ID":2},{"nombre":"goma","precio":25,"thumbnail":"url de foto de goma","ID":3},{"nombre":"lapicera","precio":35,"thumbnail":"url de foto de lapicera","ID":4},{"nombre":"cartuchera","precio":99,"thumbnail":"url de foto de cartuchera","ID":5}]
